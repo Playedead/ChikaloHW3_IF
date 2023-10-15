@@ -87,7 +87,7 @@ public class Main {
     System.out.println("Задача №7");
     int one = 15;
     int two = 12;
-    int three = 10;
+    int three = 1;
     if (one > two && one > three) {
       System.out.println("Самым большим числом является первое (" + one + ")");
     }
